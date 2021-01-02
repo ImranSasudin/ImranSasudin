@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm Imran Sasudin👋
 
-<!--
-**ImranSasudin/ImranSasudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-time java developer and part-time laravel developer. I love learning new stack. For me, the more you learn about other stack, the better understanding of each of it. 
 
-Here are some ideas to get you started:
+I code both front-end and back-end (but more to back-end)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Get in Touch
+
+- GitHub: [github.com/ImranSasudin](https://github.com/ImranSasudin)
+- LinkedIn: [https://www.linkedin.com/in/imran-sasudin/](https://www.linkedin.com/in/imran-sasudin/)
+- Site: [imrans.dev](https://imrans.dev)
+- E-mail: imransasudin@gmail.com
+
+### 📚 E-Mail me for any inquiries!
+
+![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=ImranSasudin&show_icons=true=true&theme=radical) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImranSasudin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
