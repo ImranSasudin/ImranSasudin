@@ -11,10 +11,11 @@ I'm a software engineer. I love building complex software. Complex software keep
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/ImranSasudin](https://github.com/ImranSasudin)
 - LinkedIn: [https://www.linkedin.com/in/imran-sasudin/](https://www.linkedin.com/in/imran-sasudin/)
-- Site: [imrans.dev](https://imrans.dev) (very outdated)
 - E-mail: imransasudin@gmail.com
+- GitHub: [github.com/ImranSasudin](https://github.com/ImranSasudin)
+- Site: [imrans.dev](https://imrans.dev) (very outdated)
+
 
 ### 📚 E-Mail me for any inquiries!
 
