@@ -1,14 +1,19 @@
 # Hello, I'm Imran Sasudin👋
 
-I'm a full-time java developer and part-time laravel developer. I love learning new stack. For me, the more you learn about other stack, the better understanding of each of it. 
+I'm a software engineer. I love building complex software. Complex software keeps my brain running!
 
-I code both front-end and back-end (but more to back-end)
+- Javascript (Typescript)
+- Ex-Python, Ex-Java, Ex-PHP
+
+- NestJS - MongoDB - Laravel - MySQL - Oracle - Spring MVC - FastAPI
+- Angular - React - Vue
+- Ionic - React Native
 
 ### 📬 Get in Touch
 
 - GitHub: [github.com/ImranSasudin](https://github.com/ImranSasudin)
 - LinkedIn: [https://www.linkedin.com/in/imran-sasudin/](https://www.linkedin.com/in/imran-sasudin/)
-- Site: [imrans.dev](https://imrans.dev)
+- Site: [imrans.dev](https://imrans.dev) (very outdated)
 - E-mail: imransasudin@gmail.com
 
 ### 📚 E-Mail me for any inquiries!
